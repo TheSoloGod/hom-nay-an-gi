@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+.error {
+    color: #FF0000;
+}
+table{
+    margin: 10px;
+    width: 500px;
+    border: 2px;
+    padding: 5px;
+    alignment: center;
+}
+td, th{
+    border: solid 1px;
+    size: 200px;
+    max-width: 200px;
+}
+form{
+    width: 450px;
+}
+input{
+    border: solid 1px;
+    margin: 2px;
+    width: 360px;
+    height: 20px;
+    text-align: center;
+}
+.label{
+    width: 100px;
+
+}
+.required{
+    color: #FF0000;
+}
+.input{
+    margin: 5px;
+    border: 2px;
+    width: 100px;
+    background: aqua;
+}
